@@ -462,6 +462,7 @@ h2 {
 }
 
 .footer-social a {
+  color: #ffffff;
   font-size: 1.4rem;
   text-decoration: none;
   transition: transform 0.2s ease;
