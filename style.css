@@ -108,6 +108,7 @@ section {
 h2 {
   margin-bottom: 20px;
   font-size: 2rem;
+  text-align: center;
 }
 
 .hero {
@@ -226,6 +227,7 @@ h2 {
   gap: 40px;
   justify-content: center;
   flex-wrap: wrap;
+  text-align: center;
 }
 
 .sobre-img img {
